@@ -1,0 +1,2 @@
+# STRINGS
+uppercase,length,replace
